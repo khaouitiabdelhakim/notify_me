@@ -4,3 +4,7 @@ Android offers several options for scheduling tasks to run at specific times, su
 In this app, I will demonstrate the approach I used in my app Notify Me, which utilizes AlarmManager + BroadcastReceivers to send daily reminder-notifications at a specific time.
 
 `Notify Me Android App`
+
+<clipboard-copy >
+  Copy path
+</clipboard-copy>
