@@ -5,6 +5,3 @@ In this app, I will demonstrate the approach I used in my app Notify Me, which u
 
 `Notify Me Android App`
 
-<clipboard-copy >
-  Copy path
-</clipboard-copy>
