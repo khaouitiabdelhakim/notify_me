@@ -5,8 +5,10 @@ In this app, I will demonstrate the approach I used in my app Notify Me, which u
 
 `Notify Me Android App`
 
+I'm using view binding feature, so do not forget to add it to the gradle app
+
 ```
-function test() {
-  console.log("This code will have a copy button to the right of it");
-}
+buildFeatures {
+        viewBinding true
+    }
 ```
